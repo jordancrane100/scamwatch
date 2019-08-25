@@ -575,3 +575,37 @@ So my main goal would probably just be to compile a list of domains for blocklis
 
 I was interested in the clickbank redirects from those few domains earlier and thought it might have some answers. I googled clickbank and found that it is allegedly something legitimate. An *affiliate marketing program*. Seems like something people use to try and get rich quick online. The main domain is `clickbank.com` but `clickbank.net` also redirects to it. I am going to assume the Clickbank people have nothing to do with these other scammers and one of them just decided to redirect a few domains to their Clickbank URL for clicks? They must get something out of it. But the fact that clickbank domains were on some of the blocklists I use makes me think it isn't something that great either. But I'll consider it unrelated to these scammers.
 
+## Domains
+
+The majority of the URL shortener domains are registered at Namecheap and have Whoisguard protection so that information is protected.
+
+## IPs
+
+The main IP address used by the domains `89.248.172.46` belongs to an IP range owned by network provider [`Ip Volume Inc`](http://www.ipvolume.net/) in the country Seychelles.
+
+`34.227.226.117` belongs to Amazon EC2.
+
+`34.74.175.15` belongs to Google Cloud.
+
+`68.183.21.244` belongs to DigitalOcean.
+
+The IP addresses of those 2 peculiar domains which were set up differently are all on Cloudflare:
+```104.24.100.126
+104.24.101.126
+104.28.30.153
+104.28.31.153
+2606:4700:30::6818:647e
+2606:4700:30::6818:657e
+2606:4700:30::681c:1e99
+2606:4700:30::681c:1f99
+```
+
+The other individual use IPs are part of Namecheap Hosting:
+```
+192.64.119.153
+162.255.119.9
+192.64.119.78
+192.64.119.84
+```
+
+I think it's quite normal for cloud providers to be abused by spammers and scammers. The Seychelles one interests me since it hosts the majority of the domains and also I'd never heard of that country before lol. Also why are the domains spread out so unevenly across different networks?

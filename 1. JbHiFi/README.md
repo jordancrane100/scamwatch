@@ -511,4 +511,62 @@ fclickit.com 2606:4700:30::6818:657e
 fclickit.com 104.24.100.126
 fclickit.com 104.24.101.126
 ```
-And none which I tried were blocked by any of my blockers.
+And none of the URLs which I tried were blocked by any of my blockers.
+
+## Testing the actual URL
+
+I decided to then visit the actual URL I was sent: `http://tgogtz.com/fTE`
+
+It redirected to another domain: `http://track.kiwiclicks.com/7927275c-c5e1-457a-bbd8-395862852a24` with a few different parameters in the URL (which I have stripped from here), including my mobile number.
+
+That site then redirected to another one, with even more parameters: `http://lander1.giveaways-online.com/l15/` (stripped the parameters again)
+
+This is where the content of the scam was.
+
+```
+Congratulation! You have been chosen
+The winners near you:
+Sandra King (Sydney) - Claimed free gift
+Jenny Smith (Brisbane) - Claimed free gift
+Lucas Brown (Hobart) - Claimed free gift
+
+To claim your free gift, simply answer our 30-second marketing survey about your experiences with JB HiFi. Click OK to start. 
+```
+
+I decided to not click on anything. But it was clear that the original short URL was just for my number and for the JB HiFi scam, and it was designed for an Australian audience.
+
+Going to a random URL on `http://tgogtz.com/` for example `http://tgogtz.com/example` would just show the same content as the homepage.
+
+But if I changed the URL slightly from `http://tgogtz.com/fTE` to `http://tgogtz.com/fTF` it would successfully redirect to another scam domain with somebody elses phone number as the parameter.
+
+## Testing other URLs
+
+I decided to try one of the other domains I found to see if they were just mirrors or not.
+
+I tried: `http://www.vclickit.com/fTE`
+
+which then redirected to `https://cliq.to/rrj5r`
+
+which then redirected to `https://tracking.patientzerotech.com/955b6e12-fcfa-4316-8781-cb1a6db4aa7a?url_campaign=REPLACE&place=REPLACE`
+
+and finally redirected to `https://horizonsettler.com/crypvipclub_vlm_en/?coc=9373&subc=wQPATGT573HNNASO1LCIV3FQ&paramc=citetest&paramf=955b6e12-fcfa-4316-8781-cb1a6db4aa7a`.
+
+So another domain's shortened URL went through a different set of domains and parameters for a completely different scam. This time a *Crypto VIP Club*:
+
+```
+Unleash The Power Of Crypto and Earn $17,000 every week
+The System The Banks Don't Want You To Know About!
+BECOME A MEMBER TODAY!
+```
+
+Try another? `http://28az.info/a` redirects to `https://loanify.app/login/?c=14946&source=se-cnv-01.28-la`
+
+Another? `http://poptmm.com/fTE` redirects to `http://tracking.fasteyebd.com/4895eceb-af2f-43cf-84cf-5e224ef64cd5` which rediects to `https://paketinfo.kebigroup.com/?cid=wSJ41TN6931H1KSOHVB17D2A&sub2=SEG3110819SME&lumi2=1`. A site that was in Swedish.
+
+## Intermission
+
+My guess at this point is that these are global scammers with at least hundreds of different scams and these URL shortener domains are just an entry point. I could probably find more of them, test some URLs on each, collect the domains each one redirects through and compile a larger list.
+
+For now I'll see if there's any information about who is hosting these sites and who owns these domains. I know that the majority will have private WHOIS records and most likely be hosted in places which either don't care or are unaware of their customers actions.
+
+So my main goal would probably just be to compile a list of domains for blocklists to add.

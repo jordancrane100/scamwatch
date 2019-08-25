@@ -34,7 +34,7 @@ Clearly not legit.
 
 Googled this: `"is a url shortener used by 1,000's of businesses."`.
 
-Google returned at least 200 different domains using the same content. I sorted the results and got this:
+Google returned at least 200 different websites using the same content. I sorted the results and got this list of domains:
 
 ```
 28az.info
@@ -243,4 +243,270 @@ zw308.info
 ```
 
 The domain I was directed to (*tgogtz.com*) wasn't in the results, so it's safe to assume that there are many more than the ones returned by my simple search.
+
+Looked up the IP addresses:
+
+```
+28az.info has address 89.248.172.46
+9zw.info has address 89.248.172.46
+ab14.pro has address 89.248.172.46
+ab306.info has address 89.248.172.46
+ab310.info has address 89.248.172.46
+absltb.com has address 89.248.172.46
+abslte.com has address 89.248.172.46
+absltg.com has address 89.248.172.46
+abslti.com has address 89.248.172.46
+abslto.com has address 89.248.172.46
+absltt.com has address 89.248.172.46
+absltu.com has address 89.248.172.46
+absltv.com has address 89.248.172.46
+abslty.com has address 89.248.172.46
+absltz.com has address 89.248.172.46
+azx5.info has address 89.248.172.46
+babslt.com has address 192.64.119.36
+bestb.me has address 34.74.175.15
+blgigl.com has address 89.248.172.46
+cl41.info has address 89.248.172.46
+clickitk.com has address 89.248.172.46
+clickitl.com has address 89.248.172.46
+clickitv.com has address 89.248.172.46
+clickitw.com has address 89.248.172.46
+clickitx.com has address 89.248.172.46
+clk180.com has address 89.248.172.46
+clk186.com has address 89.248.172.46
+clk187.com has address 89.248.172.46
+clook.club has address 89.248.172.46
+coptmm.com has address 89.248.172.46
+dealk.info has address 34.74.175.15
+dealk.me has address 34.227.226.117
+discreetform.live has address 68.183.21.244
+do227.com has address 89.248.172.46
+dtapit.com has address 89.248.172.46
+etapit.com has address 89.248.172.46
+fabslt.com has address 89.248.172.46
+fclickit.com has IPv6 address 2606:4700:30::6818:647e
+fclickit.com has IPv6 address 2606:4700:30::6818:657e
+fclickit.com has address 104.24.100.126
+fclickit.com has address 104.24.101.126
+fgohere.com has address 89.248.172.46
+fnsth.com has address 89.248.172.46
+fnstp.com has address 89.248.172.46
+freshofficials.com has address 68.183.21.244
+fwbmeets.live has address 68.183.21.244
+gabslt.com has address 89.248.172.46
+gohered.com has address 89.248.172.46
+goherej.com has IPv6 address 2606:4700:30::681c:1e99
+goherej.com has IPv6 address 2606:4700:30::681c:1f99
+goherej.com has address 104.28.30.153
+goherej.com has address 104.28.31.153
+goherer.com has address 89.248.172.46
+gohereu.com has address 89.248.172.46
+goto108.com has address 89.248.172.46
+goto116.com has address 89.248.172.46
+goto124.com has address 89.248.172.46
+goto125.com has address 89.248.172.46
+goto129.com has address 89.248.172.46
+goto132.com has address 89.248.172.46
+goto136.com has address 89.248.172.46
+goto142.com has address 89.248.172.46
+goto143.com has address 89.248.172.46
+goto151.com has address 89.248.172.46
+goto158.com has address 89.248.172.46
+goto172.com has address 34.74.175.15
+goto175.com has address 89.248.172.46
+goto177.com has address 89.248.172.46
+goto193.com has address 89.248.172.46
+goto293.com has address 89.248.172.46
+goto294.com has address 89.248.172.46
+goto4.site has address 89.248.172.46
+gtcheck.com has address 192.64.119.153
+href113.com has address 89.248.172.46
+href117.com has address 89.248.172.46
+href118.com has address 89.248.172.46
+href121.com has address 89.248.172.46
+href142.com has address 89.248.172.46
+href151.com has address 89.248.172.46
+href157.com has address 89.248.172.46
+href160.com has address 89.248.172.46
+href165.com has address 89.248.172.46
+href177.com has address 89.248.172.46
+hrf180.com has address 89.248.172.46
+hrf299.com has address 89.248.172.46
+ilsosl.com has address 89.248.172.46
+ioptmm.com has address 89.248.172.46
+jabslt.com has address 89.248.172.46
+jmp177.com has address 89.248.172.46
+jprfct.com has address 34.227.226.117
+jump106.com has address 89.248.172.46
+jump108.com has address 89.248.172.46
+jump116.com has address 89.248.172.46
+jump117.com has address 89.248.172.46
+jump129.com has address 89.248.172.46
+jump133.com has address 89.248.172.46
+jump135.com has address 89.248.172.46
+jump140.com has address 89.248.172.46
+jump152.com has address 89.248.172.46
+jump172.com has address 89.248.172.46
+jump183.com has address 89.248.172.46
+jump185.com has address 89.248.172.46
+jump189.com has address 89.248.172.46
+jump192.com has address 89.248.172.46
+jump292.com has address 89.248.172.46
+jump77.com has address 89.248.172.46
+kgohere.com has address 89.248.172.46
+lgiglc.com has address 89.248.172.46
+lgiglg.com has address 89.248.172.46
+lgiglh.com has address 89.248.172.46
+lgiglv.com has address 89.248.172.46
+lgiglw.com has address 89.248.172.46
+link156.com has address 89.248.172.46
+link171.com has address 89.248.172.46
+link185.com has address 89.248.172.46
+link91.com has address 89.248.172.46
+lnk180.com has address 89.248.172.46
+lnkc.pro has address 89.248.172.46
+loptmm.com has address 34.227.226.117
+lsoslm.com has address 89.248.172.46
+lsoslw.com has address 89.248.172.46
+lsoslz.com has address 89.248.172.46
+ngohere.com has address 89.248.172.46
+nultmt.com has address 89.248.172.46
+oabslt.com has address 89.248.172.46
+oclickit.com has address 89.248.172.46
+ofnst.com has address 89.248.172.46
+ooptmm.com has address 89.248.172.46
+open127.com has address 89.248.172.46
+open132.com has address 89.248.172.46
+open146.com has address 89.248.172.46
+open150.com has address 89.248.172.46
+open152.com has address 89.248.172.46
+open160.com has address 89.248.172.46
+open161.com has address 89.248.172.46
+open172.com has address 89.248.172.46
+open175.com has address 89.248.172.46
+open176.com has address 89.248.172.46
+open181.com has address 89.248.172.46
+open184.com has address 89.248.172.46
+open186.com has address 89.248.172.46
+open192.com has address 89.248.172.46
+open292.com has address 89.248.172.46
+opn100.com has address 89.248.172.46
+opn192.com has address 89.248.172.46
+opn298.com has address 89.248.172.46
+opn299.com has address 89.248.172.46
+opn32.com has address 89.248.172.46
+opn79.com has address 89.248.172.46
+optmmc.com has address 89.248.172.46
+optmme.com has address 89.248.172.46
+optmmh.com has address 89.248.172.46
+optmmi.com has address 89.248.172.46
+optmmj.com has address 89.248.172.46
+optmmp.com has address 89.248.172.46
+optmmu.com has address 89.248.172.46
+optmmv.com has address 89.248.172.46
+optmmx.com has address 89.248.172.46
+oultmt.com has address 89.248.172.46
+pabslt.com has address 89.248.172.46
+poptmm.com has address 89.248.172.46
+pprfct.com has address 89.248.172.46
+prfctz.com has address 89.248.172.46
+pultmt.com has address 89.248.172.46
+qfnst.com has address 89.248.172.46
+sabslt.com has address 89.248.172.46
+sclickit.com has address 34.74.175.15
+sdeal.pro has address 34.227.226.117
+seeksdates.pro has address 68.183.21.244
+sprra.com has address 89.248.172.46
+sprrd.com has address 89.248.172.46
+sprrl.com has address 89.248.172.46
+ssprr.com has address 89.248.172.46
+tapitb.com has address 89.248.172.46
+tapitj.com has address 89.248.172.46
+tapitv.com has address 89.248.172.46
+tbrsk.com has address 89.248.172.46
+tgogta.com has address 89.248.172.46
+tgogtd.com has address 89.248.172.46
+tgogtm.com has address 89.248.172.46
+tgogtn.com has address 89.248.172.46
+tiresdownload.com has address 162.255.119.9
+tireslabs.com has address 192.64.119.78
+tirhq.com has address 192.64.119.84
+toptmm.com has address 89.248.172.46
+tultmt.com has address 89.248.172.46
+ultmtb.com has address 89.248.172.46
+ultmti.com has address 89.248.172.46
+ultmtj.com has address 89.248.172.46
+ultmtn.com has address 89.248.172.46
+ultmtu.com has address 89.248.172.46
+uoptmm.com has address 89.248.172.46
+utgogt.com has address 89.248.172.46
+vclickit.com has address 89.248.172.46
+vw301.me has address 34.74.175.15
+wamzx.com has address 89.248.172.46
+wgohere.com has address 89.248.172.46
+wndwn.com has address 89.248.172.46
+wndwr.com has address 89.248.172.46
+wndwy.com has address 89.248.172.46
+xabslt.com has address 89.248.172.46
+xclickit.com has address 89.248.172.46
+xliveclub.com has address 68.183.21.244
+xoptmm.com has address 89.248.172.46
+xprfct.com has address 89.248.172.46
+ylgigl.com has address 89.248.172.46
+zoptmm.com has address 89.248.172.46
+zsprr.com has address 89.248.172.46
+zw308.info has address 34.227.226.117
+```
+
+Sorted the IPs and ordered by count:
+
+```
+89.248.172.46 - 181
+34.227.226.117 - 5
+34.74.175.15 - 5
+68.183.21.244 - 5
+104.24.100.126 - 1
+104.24.101.126 - 1
+104.28.30.153 - 1
+104.28.31.153 - 1
+162.255.119.9 - 1
+192.64.119.153 - 1
+192.64.119.36 - 1
+192.64.119.78 - 1
+192.64.119.84 - 1
+2606:4700:30::6818:647e - 1
+2606:4700:30::6818:657e - 1
+2606:4700:30::681c:1e99 - 1
+2606:4700:30::681c:1f99 - 1
+```
+
+Most of the websites are using the same IP address but some of them were different. Decided to quickly check what the differences were.
+
+Turns out 4 of the single use IPs:
+```
+gtcheck.com 192.64.119.153
+tiresdownload.com 162.255.119.9
+tireslabs.com 192.64.119.78
+tirhq.com 192.64.119.84
+```
+redirect to: `https://abab5qo3y1dw1w6uvasfzu3xbl.hop.clickbank.net/`
+which was already blocked by my uMatrix addon for Firefox. I found `clickbank.net` and `hop.clickbank.net` in the list *hpHosts’ Ad and tracking servers* and *MVPS HOSTS*. 
+Other lists such as *Dan Pollock’s hosts file* and *Peter Lowe’s Ad and tracking server list* had `clickbank` related blocks, but not the exact one.
+
+One of them was parked, so I'll ignore that:
+```
+babslt.com 192.64.119.36
+```
+
+The rest seem to be the same fake URL shortener website. Even though 2 of those domains have different IPs from the rest, and both have 2 IPv4s and 2 IPv6s for some reason:
+```
+goherej.com 2606:4700:30::681c:1e99
+goherej.com 2606:4700:30::681c:1f99
+goherej.com 104.28.30.153
+goherej.com 104.28.31.153
+fclickit.com 2606:4700:30::6818:647e
+fclickit.com 2606:4700:30::6818:657e
+fclickit.com 104.24.100.126
+fclickit.com 104.24.101.126
+```
 

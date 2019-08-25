@@ -1,3 +1,5 @@
+# !! Unfinished !!
+
 # Scam #1: SMS from "JbHiFi" about 2nd place in survey-lottery competition
 
 ## The Scam
@@ -509,4 +511,4 @@ fclickit.com 2606:4700:30::6818:657e
 fclickit.com 104.24.100.126
 fclickit.com 104.24.101.126
 ```
-
+And none which I tried were blocked by any of my blockers.

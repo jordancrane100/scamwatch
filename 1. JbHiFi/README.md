@@ -565,8 +565,13 @@ Another? `http://poptmm.com/fTE` redirects to `http://tracking.fasteyebd.com/489
 
 ## Intermission
 
-My guess at this point is that these are global scammers with at least hundreds of different scams and these URL shortener domains are just an entry point. I could probably find more of them, test some URLs on each, collect the domains each one redirects through and compile a larger list.
+My guess at this point is that these are global scammers with at least hundreds of different scams and these URL shortener domains are just entry points. I could probably find more of them, test some URLs on each, collect the domains each one redirects through and compile a larger list.
 
 For now I'll see if there's any information about who is hosting these sites and who owns these domains. I know that the majority will have private WHOIS records and most likely be hosted in places which either don't care or are unaware of their customers actions.
 
 So my main goal would probably just be to compile a list of domains for blocklists to add.
+
+## Clickbank
+
+I was interested in the clickbank redirects from those few domains earlier and thought it might have some answers. I googled clickbank and found that it is allegedly something legitimate. An *affiliate marketing program*. Seems like something people use to try and get rich quick online. The main domain is `clickbank.com` but `clickbank.net` also redirects to it. I am going to assume the Clickbank people have nothing to do with these other scammers and one of them just decided to redirect a few domains to their Clickbank URL for clicks? They must get something out of it. But the fact that clickbank domains were on some of the blocklists I use makes me think it isn't something that great either. But I'll consider it unrelated to these scammers.
+
